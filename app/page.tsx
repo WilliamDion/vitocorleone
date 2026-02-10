@@ -24,14 +24,14 @@ export default function Home() {
         <div className="relative z-10 text-center px-4 flex flex-col items-center">
           <div className="mb-6 animate-fade-in">
             <img 
-              src="https://wwuclhmpvfjrtbfwoaub.supabase.co/storage/v1/object/public/Servicos/logo%20dvargas.png" 
+              src="https://rrwxenfxczyiqdjhhxem.supabase.co/storage/v1/object/public/logos/vitocorleone.jpg" 
               alt="Logo" 
               className="w-40 h-40 md:w-52 md:h-52 object-contain"
             />
           </div>
 
           <h1 className="text-4xl md:text-5xl font-bold text-white tracking-tighter mb-6">
-            BAHRBEARIA<span className="text-primary inline-block hover:scale-110 transition-transform"></span>
+            Vito Corleone <span className="text-primary inline-block hover:scale-110 transition-transform">Barbearia</span>
           </h1>
 
           <div className="flex flex-col md:flex-row gap-4 justify-center">
